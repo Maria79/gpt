@@ -1,0 +1,1 @@
+secret key for openAI: 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
